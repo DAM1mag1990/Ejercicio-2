@@ -50,7 +50,8 @@ public class VentanaPrincipal {
 		imagenLabel.setBounds(0,0,imagenIcono.getIconWidth(),imagenIcono.getIconHeight());
 		ventana.add(imagenLabel);
 		
-		//Hola
+		
+		//Hasta luego
 		
 	}
 	
